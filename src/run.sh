@@ -1,0 +1,1 @@
+python3.9 main.py --path '/workspace/src/RAD_NEWS_ニュース兵庫爆発事故_C999998838860_AWS.txt'
